@@ -2,7 +2,7 @@
 // BASIC STYLE  //----------------------------
 _______________________________________________________*/
 /*---------- General Style ------------*/
-body, html {color: #fff; background: #030F12;}
+body, html {color: #fff; background: #4AD046;}
 a, a:focus { color: #fff; }
 a:hover {color: white; }
 a.active {color: white; }
@@ -79,7 +79,7 @@ a.active {color: white; }
 .form-control:-moz-placeholder {color: #8d56f3;}
 .heading-title-2 span, .sub-heading {color: white;}
 .sub-page-banner{background-color: #410ca3;}
-.skyblue{background-color: #030F12;}
+.skyblue{background-color: #4AD046;}
 .darkblue{background-color: EB3F33;}
 .top-scroll {background: white; color: #fff;}
 .top-scroll:hover {opacity: 0.6;}
@@ -87,14 +87,14 @@ a.active {color: white; }
 
 /*----- Menu -----*/
 .menu ul li a:before{background: white;}
-header.fixed{background: #030F12;}
+header.fixed{background: #4AD046;}
 .opener:before, .opener:after{background: #fff;}
 .menu-toggle span, .menu-toggle span:before, .menu-toggle span:after{background: #fff;}
 header.fixed .menu-toggle span, header.fixed .menu-toggle span:before, header.fixed .menu-toggle span:after{background: #fff;}
 .menu-toggle.active span{background: transparent;}
 
 /*----- Home Banner -----*/
-.home-banner{background-color: #030F12;}
+.home-banner{background-color: #4AD046;}
 
 /*----- Work Section -----*/
 ul.check-list li span{background: #fff; color: EB3F33;}
@@ -138,7 +138,7 @@ ul.check-list li span{background: #fff; color: EB3F33;}
 .coin-head{color: white;}
 .coins-counter-loop li:before, .coins-counter-loop li:after{background: #fff;}
 .coins-counter-loop li span{background: #480eb4; color: #fff;}
-.coins-progress{background: #030F12;}
+.coins-progress{background: #4AD046;}
 .coins-progress span {background-color: #d94afd;}
 
 /*----- Feature tow -----*/
@@ -152,8 +152,8 @@ ul.check-list li span{background: #fff; color: EB3F33;}
 /*----- team Tow Section -----*/
 .team-box-2{background: #fff;}
 .team-member-name a{color: white;}
-.team-member-name a:hover{color: #030F12;}
-.team-member-img {background-color: #030F12;}
+.team-member-name a:hover{color: #4AD046;}
+.team-member-img {background-color: #4AD046;}
 .team-member-img:after{background-color: rgba(255, 255, 255, .4);}
 
 /*----- Blog Tow Section -----*/
@@ -208,7 +208,7 @@ button.close{color: #fff;}
 .roadmap-center-line:before, .roadmap-center-line:after{background: #fff;}
 .roadmap-animated{background: #5d19db;}
 .roadmap-main-content:before{border-color: white;}
-.roadmap-small-round{border-color: #fff; background: #030F12;}
+.roadmap-small-round{border-color: #fff; background: #4AD046;}
 .roadmap-small-round:before{background: white;}
 .roadmap-main .roadmap-detail-box{background: #5d19db;}
 .roadmap-main .roadmap-des{color: #fff; padding: 0;}
@@ -218,8 +218,8 @@ button.close{color: #fff;}
 .token-sale-counter{background: #5d19db;}
 .token-sale-counter .coins-counter-loop li span{background: transparent;}
 .token-sale-counter .coins-counter-loop li .coin-day{color: white;}
-.token-sale-counter .coins-progress span{background: rgb(218,75,253); background: -moz-linear-gradient(left,  rgba(218,75,253,1) 0%, rgba(73,15,180,1) 100%); background: -webkit-linear-gradient(left,  rgba(218,75,253,1) 0%,rgba(73,15,180,1) 100%); background: linear-gradient(to right,  rgba(218,75,253,1) 0%,rgba(73,15,180,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#030F12',GradientType=1 );}
-.token-slide-info:before{background: #030F12;}
+.token-sale-counter .coins-progress span{background: rgb(218,75,253); background: -moz-linear-gradient(left,  rgba(218,75,253,1) 0%, rgba(73,15,180,1) 100%); background: -webkit-linear-gradient(left,  rgba(218,75,253,1) 0%,rgba(73,15,180,1) 100%); background: linear-gradient(to right,  rgba(218,75,253,1) 0%,rgba(73,15,180,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#4AD046',GradientType=1 );}
+.token-slide-info:before{background: #4AD046;}
 .token-sale-counter .coins-progress{background: #fff;}
 .distribution-title { color: white;}
 
