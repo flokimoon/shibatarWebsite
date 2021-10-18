@@ -3,7 +3,7 @@
 _______________________________________________________*/
 /*---------- General Style ------------*/
 body, html {color: white; background: #0C0156;}
-a, a:focus { color: rgb(0, 0, 0); }
+a, a:focus { color: white; }
 a:hover {color: white; }
 a.active {color: white; }
 
@@ -77,7 +77,7 @@ a.active {color: white; }
 .form-control::-moz-placeholder {color: #8d56f3;}
 .form-control:-ms-input-placeholder {color: #8d56f3;}
 .form-control:-moz-placeholder {color: #8d56f3;}
-.heading-title-2 span, .sub-heading {color: rgb(0, 0, 0);}
+.heading-title-2 span, .sub-heading {color: white;}
 .sub-page-banner{background-color: #410ca3;}
 .skyblue{background-color: #0C0156;}
 .darkblue{background-color: EB3F33;}
@@ -86,7 +86,7 @@ a.active {color: white; }
 .top-scroll a{color: white;}
 
 /*----- Menu -----*/
-.menu ul li a:before{background: rgb(0, 0, 0);}
+.menu ul li a:before{background: white;}
 header.fixed{background: #0C0156;}
 .opener:before, .opener:after{background: white;}
 .menu-toggle span, .menu-toggle span:before, .menu-toggle span:after{background: white;}
@@ -104,8 +104,8 @@ ul.check-list li span{background: white; color: EB3F33;}
 .feature-box:hover path.hover {fill: white;}
 
 /*----- Timeline Section -----*/
-.h-border, .v-row{border-color: rgb(0, 0, 0);}
-.small-round{border-color: rgb(0, 0, 0);}
+.h-border, .v-row{border-color: white;}
+.small-round{border-color: white;}
 .v-row:before, .small-round span{background: white;}
 
 /*----- Team Section -----*/
@@ -151,7 +151,7 @@ ul.check-list li span{background: white; color: EB3F33;}
 
 /*----- team Tow Section -----*/
 .team-box-2{background: white;}
-.team-member-name a{color: rgb(0, 0, 0);}
+.team-member-name a{color: white;}
 .team-member-name a:hover{color: #0C0156;}
 .team-member-img {background-color: #0C0156;}
 .team-member-img:after{background-color: rgba(255, 255, 255, .4);}
@@ -204,7 +204,7 @@ button.close{color: white;}
 .comment-reply:hover{color: white; background: #5d19db;}
 
 /*----- Roadmap Page -----*/
-.roadmap-center-line{border-color: rgb(0, 0, 0);}
+.roadmap-center-line{border-color: white;}
 .roadmap-center-line:before, .roadmap-center-line:after{background: white;}
 .roadmap-animated{background: #5d19db;}
 .roadmap-main-content:before{border-color: white;}
